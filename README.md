@@ -1,4 +1,4 @@
-# Movie Data Analysis Project
+# Movies Data Analysis With Python
 
 ![Movie-Genres-Types-of-Movies-List-of-Genres-and-Categories-StudioBinder](https://github.com/user-attachments/assets/8eea57a1-530c-4739-a0bc-97b1fd20b903)
 
